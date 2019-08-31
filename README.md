@@ -16,9 +16,9 @@ Unordered Pie List
 * Peach
 * Apple
 
-
-![alt text](http://www.enzospizzashack.com/images/box1.jpg  "Pizza!")
-
+Credit to Enzo'z Pizza Shack
+![alt text](http://www.enzospizzashack.com/images/box1.jpg  "Pizza! ")
+Credit to WHole Foods Market
 ![alt text](https://www.wholefoodsmarket.com/sites/default/files/styles/header_recipe/public/media/1138-1.jpg?itok=e5x91VQk   "Text 2")
 
 
