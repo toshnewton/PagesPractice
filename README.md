@@ -4,22 +4,22 @@
 
 ## Markdown skills:
 
-Ordered List
+### Coolest Animals
 
-	1.
-	2.
-	3.
+	1. Cheetah
+	2. Mantaray
+	3. Whale Shark
 
-Unordered List
+Unordered Pie List
 
-	-
-	-
-	-
+	-Cherry
+	-Peach
+	-Apple
 
 
 Image 1
 
-![alt text (http://www.enzospizzashack.com/images/box1.jpg  "Pizza!")
+![alt text](http://www.enzospizzashack.com/images/box1.jpg  "Pizza!")
 
 Image 2
 
