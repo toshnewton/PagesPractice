@@ -6,15 +6,15 @@
 
 ### Coolest Animals
 
-	1. Cheetah
-	2. Mantaray
-	3. Whale Shark
+1. Cheetah
+2. Mantaray
+3. Whale Shark
 
 Unordered Pie List
 
-	* Cherry
-	* Peach
-	* Apple
+* Cherry
+* Peach
+* Apple
 
 
 ![alt text](http://www.enzospizzashack.com/images/box1.jpg  "Pizza!")
