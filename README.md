@@ -12,16 +12,12 @@
 
 Unordered Pie List
 
-	-Cherry
-	-Peach
-	-Apple
+	* Cherry
+	* Peach
+	* Apple
 
-
-Image 1
 
 ![alt text](http://www.enzospizzashack.com/images/box1.jpg  "Pizza!")
-
-Image 2
 
 ![alt text](https://www.wholefoodsmarket.com/sites/default/files/styles/header_recipe/public/media/1138-1.jpg?itok=e5x91VQk   "Text 2")
 
